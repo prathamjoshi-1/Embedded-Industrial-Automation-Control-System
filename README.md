@@ -80,7 +80,7 @@ Key Modules:
   <img src="docs/Mobile4.png" width="160"/>
 </p>
 
-###🔹 EMS (Energy Monitoring System)
+### 👉 EMS (Energy Monitoring System)
 
 1) Monitors machine current, voltage, and power consumption live
 
