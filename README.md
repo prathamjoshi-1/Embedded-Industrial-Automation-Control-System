@@ -5,7 +5,7 @@
 ### 🌐 Web Dashboard
 
 <p align="center">
-  <img src="docs/web1.png" width="250"/>
+  <img src="docs/web1.png" width="250"/><img src="docs/web2.png" width="250"/>
   <img src="docs/web2.png" width="250"/>
   <img src="docs/web3.png" width="250"/>
 </p>
