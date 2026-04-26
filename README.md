@@ -32,7 +32,7 @@ Designed and developed an integrated Industrial Automation platform accessible t
 
 Key Modules:
 
-🔹 DFOS (Digital Factory Operating System)
+###🔹 DFOS (Digital Factory Operating System)
 
 1) Real-time production monitoring for FMCG & manufacturing sectors
 
@@ -58,7 +58,7 @@ Key Modules:
 </p>
 
 
-🔹 HMI (Human Machine Interface)
+###🔹 HMI (Human Machine Interface)
 
 1) Real-time machine monitoring and remote control
 
@@ -70,8 +70,18 @@ Key Modules:
 
 5) Improves operational efficiency with less manual intervention
 
+### 🌐 Web Dashboard For DFOS
+<p align="center">
+  <img src="docs/web2.jpg" width="500"/>
+</p>
 
-🔹 EMS (Energy Monitoring System)
+### 📲 Mobile Dashboard For DFOS
+<p align="center">
+  <img src="docs/Mobile3.png" width="160"/>
+  <img src="docs/Mobile4.png" width="160"/>
+</p>
+
+###🔹 EMS (Energy Monitoring System)
 
 1) Monitors machine current, voltage, and power consumption live
 
@@ -83,6 +93,15 @@ Key Modules:
 
 5) Supports energy saving and preventive maintenance strategies
 
+### 🌐 Web Dashboard For DFOS
+<p align="center">
+  <img src="docs/web3.jpg" width="500"/>
+</p>
+
+### 📲 Mobile Dashboard For DFOS
+<p align="center">
+  <img src="docs/Mobile5.png" width="160"/>
+</p>
 
 Technologies Used:
 
