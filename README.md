@@ -13,10 +13,10 @@
 ### 📲 Mobile Dashboard
 
 <p align="center">
-  <img src="docs/Mobile1.png" width="180"/>
+  <img src="docs/Mobile1.png" width="160"/>
   <!-- <img src="docs/Mobile2.png" width="100"/> -->
   
-  <img src="docs/Mobile3.png" width="180"/>
+  <img src="docs/Mobile3.png" width="160"/>
   
   <img src="docs/Mobile4.png" width="180"/>
   
