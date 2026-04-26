@@ -27,6 +27,60 @@
 This project is an **Embedded-based Industrial Automation & Control System** that monitors and controls 4 machines using IoT (Industrial Dashboard).
 It includes **real-time monitoring, production counting, fault detection, and alert system**.
 
+Industrial Automation Suite | DFOS + HMI + EMS
+Designed and developed an integrated Industrial Automation platform accessible through a single Web & Mobile dashboard for remote monitoring and control of manufacturing operations.
+
+Key Modules:
+
+🔹 DFOS (Digital Factory Operating System)
+
+1) Real-time production monitoring for FMCG & manufacturing sectors
+
+2) Tracks total production, target achievement, and per-minute output
+
+3) Detects machine idle time, breakdown duration, and production loss periods
+
+4) Implements Start / Stop / Wait / Block logic for automated workflow control
+
+5) Displays live production analytics and graphs
+
+6) Helps reduce breakdown time and manpower dependency
+
+
+🔹 HMI (Human Machine Interface)
+
+1) Real-time machine monitoring and remote control
+
+2) PWM-based machine speed control
+
+3) Displays live and historical machine performance data
+
+4) Tracks machine ON/OFF history and downtime reasons
+
+5) Improves operational efficiency with less manual intervention
+
+
+🔹 EMS (Energy Monitoring System)
+
+1) Monitors machine current, voltage, and power consumption live
+
+2) Sends maintenance alerts for abnormal power usage
+
+3) Automatically shuts down machines when power exceeds safety limits
+
+4) Live energy consumption dashboard with trend graphs
+
+5) Supports energy saving and preventive maintenance strategies
+
+
+Technologies Used:
+
+ESP8266 / IoT / Sensors / Embedded C++ / Web Dashboard / Firebase / Real-time Database / Automation Logic / Data Visualization
+
+Impact:
+
+Reduced manpower, minimized production loss, improved efficiency, and enabled smart factory remote operations.
+
 ---
 
 ## 🧱 Block Diagram
