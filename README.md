@@ -5,9 +5,9 @@
 ### 🌐 Web Dashboard
 
 <p align="center">
-  <img src="docs/web1.png" width="250"/><img src="docs/web2.png" width="250"/>
-  <img src="docs/web2.png" width="250"/>
-  <img src="docs/web3.png" width="250"/>
+  <img src="docs/web1.jpg" width="250"/>
+  <img src="docs/web2.jpg" width="250"/>
+  <img src="docs/web3.jpg" width="250"/>
 </p>
 
 ### 📲 Mobile Dashboard
@@ -31,7 +31,7 @@ It includes **real-time monitoring, production counting, fault detection, and al
 
 ## 🧱 Block Diagram
 
-![Block Diagram](docs/Block Diagram.png)
+![Block Diagram](docs/BlockDiagram.png)
 
 ### 📖 Description
 
@@ -44,7 +44,7 @@ It includes **real-time monitoring, production counting, fault detection, and al
 
 ## 🔌 Circuit Diagram
 
-![Circuit Diagram](docs/Circuit Diagram.png)
+![Circuit Diagram](docs/CircuitDiagram.png)
 
 ### 📖 Description
 
