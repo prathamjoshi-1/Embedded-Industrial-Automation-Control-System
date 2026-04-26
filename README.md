@@ -5,9 +5,9 @@
 ### 🌐 Web Dashboard
 
 <p align="center">
-  <img src="docs/web1.jpg" width="340"/>
-  <img src="docs/web2.jpg" width="340"/>
-  <img src="docs/web3.jpg" width="340"/>
+  <img src="docs/web1.jpg" width="400"/>
+  <img src="docs/web2.jpg" width="400"/>
+  <img src="docs/web3.jpg" width="400"/>
 </p>
 
 ### 📲 Mobile Dashboard
