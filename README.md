@@ -32,7 +32,7 @@ Designed and developed an integrated Industrial Automation platform accessible t
 
 Key Modules:
 
-### DFOS (Digital Factory Operating System)
+### 👉 DFOS (Digital Factory Operating System)
 
 1) Real-time production monitoring for FMCG & manufacturing sectors
 
