@@ -5,19 +5,19 @@
 ### 🌐 Web Dashboard
 
 <p align="center">
-  <img src="docs/web1.jpg" width="250"/>
-  <img src="docs/web2.jpg" width="250"/>
-  <img src="docs/web3.jpg" width="250"/>
+  <img src="docs/web1.jpg" width="300"/>
+  <img src="docs/web2.jpg" width="300"/>
+  <img src="docs/web3.jpg" width="300"/>
 </p>
 
 ### 📲 Mobile Dashboard
 
 <p align="center">
-  <img src="docs/Mobile1.png" width="200"/>
-  <img src="docs/Mobile2.png" width="200"/>
-  <img src="docs/Mobile3.png" width="200"/>
-  <img src="docs/Mobile4.png" width="200"/>
-  <img src="docs/Mobile5.png" width="200"/>
+  <img src="docs/Mobile1.png" width="100"/>
+  <img src="docs/Mobile2.png" width="100"/>
+  <img src="docs/Mobile3.png" width="100"/>
+  <img src="docs/Mobile4.png" width="100"/>
+  <img src="docs/Mobile5.png" width="100"/>
 </p>
 
 ---
