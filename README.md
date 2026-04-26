@@ -18,9 +18,9 @@
   
   <img src="docs/Mobile3.png" width="160"/>
   
-  <img src="docs/Mobile4.png" width="180"/>
+  <img src="docs/Mobile4.png" width="160"/>
   
-  <img src="docs/Mobile5.png" width="180"/>
+  <img src="docs/Mobile5.png" width="160"/>
 </p>
 
 ---
