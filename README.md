@@ -69,12 +69,12 @@ Key Modules:
 
 5) Improves operational efficiency with less manual intervention
 
-### 🌐 Web Dashboard For DFOS
+### 🌐 Web Dashboard For HMI 
 <p align="center">
   <img src="docs/web2.jpg" width="500"/>
 </p>
 
-### 📲 Mobile Dashboard For DFOS
+### 📲 Mobile Dashboard For HMI 
 <p align="center">
   <img src="docs/Mobile3.png" width="160"/>
   <img src="docs/Mobile4.png" width="160"/>
@@ -92,12 +92,12 @@ Key Modules:
 
 5) Supports energy saving and preventive maintenance strategies
 
-### 🌐 Web Dashboard For DFOS
+### 🌐 Web Dashboard For EMS 
 <p align="center">
   <img src="docs/web3.jpg" width="500"/>
 </p>
 
-### 📲 Mobile Dashboard For DFOS
+### 📲 Mobile Dashboard For EMS 
 <p align="center">
   <img src="docs/Mobile5.png" width="160"/>
 </p>
