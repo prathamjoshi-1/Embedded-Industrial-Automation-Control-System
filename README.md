@@ -46,6 +46,17 @@ Key Modules:
 
 6) Helps reduce breakdown time and manpower dependency
 
+### 🌐 Web Dashboard For DFOS
+<p align="center">
+  <img src="docs/web1.jpg" width="500"/>
+</p>
+
+### 📲 Mobile Dashboard For DFOS
+<p align="center">
+  <img src="docs/Mobile1.png" width="160"/>
+  <img src="docs/Mobile2.png" width="160"/>
+</p>
+
 
 🔹 HMI (Human Machine Interface)
 
