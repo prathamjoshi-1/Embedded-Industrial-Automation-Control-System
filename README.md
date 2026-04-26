@@ -57,7 +57,6 @@ Key Modules:
   <img src="docs/Mobile2.png" width="160"/>
 </p>
 
-
 ###🔹 HMI (Human Machine Interface)
 
 1) Real-time machine monitoring and remote control
