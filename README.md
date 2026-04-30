@@ -24,7 +24,7 @@
 
 ## 📌 Project Overview
 
-This project is an **Embedded-based Industrial Automation & Control System** that monitors and controls 4 machines using IoT (Industrial Dashboard).
+This project is an **Embedded-based Industrial Automation & Control System** that monitors and controls multiple machines using IoT (Industrial Dashboard).
 It includes **real-time monitoring, production counting, fault detection, and alert system**.
 
 Industrial Automation Suite | DFOS + HMI + EMS
