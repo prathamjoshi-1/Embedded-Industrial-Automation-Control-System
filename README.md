@@ -181,6 +181,23 @@ Reduced manpower, minimized production loss, improved efficiency, and enabled sm
 
 ---
 
+> [!TIP]
+> - Use stable WiFi (2.4GHz) for ESP8266 to avoid disconnection issues  
+> - Keep sensor wiring short and shielded to reduce noise  
+> - Test each module (DFOS, HMI, EMS) individually before full integration  
+> - Use proper power supply (3.3V regulated) for reliable performance  
+> - Monitor dashboard logs to debug real-time issues quickly
+
+---
+
+> [!WARNING]
+> - Do NOT connect ESP8266 directly to high voltage machines without proper isolation (use relays/opto-couplers)  
+> - Incorrect wiring may damage ESP8266 or sensors permanently  
+> - Ensure current and voltage limits are within safe range before enabling EMS auto-shutdown  
+> - Avoid running system in unstable network conditions (may cause wrong automation triggers)  
+> - This project is for educational/prototype use — industrial deployment requires safety certification
+
+---
 ## 💡 Features
 
 >
