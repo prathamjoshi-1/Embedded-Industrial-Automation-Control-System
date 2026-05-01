@@ -183,7 +183,7 @@ Reduced manpower, minimized production loss, improved efficiency, and enabled sm
 
 ## 💡 Features
 
-> [! WARNING]
+>
 >
 > ✔ Real-time monitoring
 ✔ IoT control using Cloud
