@@ -174,10 +174,12 @@ Reduced manpower, minimized production loss, improved efficiency, and enabled sm
 
 ---
 
-## ⚠️ Note
 > [!NOTE]
->
-> Add your WiFi credentials in `config.h` before running the project!
+> - Update WiFi credentials in `config.h` before uploading code  
+> - Ensure all GPIO connections match the pin configuration section  
+> - Dashboard and ESP8266 must be connected to the same network (or properly configured cloud)  
+> - Calibrate IR sensor properly for accurate production counting  
+> - EEPROM data may reset if flashing new firmware
 
 ---
 
