@@ -171,6 +171,15 @@ Reduced manpower, minimized production loss, improved efficiency, and enabled sm
 
 Add your WiFi credentials in `config.h` before running the project.
 
+> [!WARNING]
+> **Attention:** We **do not** have any officially minted cryptocurrency or token associated with this project. Please check the information and proceed with caution.
+
+> [!NOTE]
+>
+> We've got a whole dedicated organization [@proj-airi](https://github.com/proj-airi) for all the sub-projects born from Project AIRI. Check it out!
+>
+> RAG, memory system, embedded database, icons, Live2D utilities, and more!
+
 ---
 
 ## 💡 Features
