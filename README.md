@@ -176,10 +176,10 @@ Reduced manpower, minimized production loss, improved efficiency, and enabled sm
 
 ## 💡 Features
 
-> [!FEATURES]
+> [! WARNING]
 >
 > ✔ Real-time monitoring
-✔ IoT control using Blynk
+✔ IoT control using Cloud
 ✔ Production counting
 ✔ Fault detection system
 ✔ EEPROM data storage
