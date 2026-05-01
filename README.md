@@ -200,6 +200,34 @@ Reduced manpower, minimized production loss, improved efficiency, and enabled sm
 > - This project is for educational/prototype use — industrial deployment requires safety certification
 
 ---
+
+> [!IMPORTANT]
+> - Ensure proper isolation (relay/opto-coupler) between ESP8266 and industrial machines  
+> - Follow correct pin configuration before powering the system  
+> - Verify automation logic (Start/Stop/Interlock) to avoid unexpected machine behavior  
+> - Maintain stable cloud connectivity for accurate real-time monitoring  
+> - Test system in simulation/prototype before real industrial deployment
+
+---
+
+> [!INFO]
+> - System uses ESP8266 with cloud-based dashboard for remote monitoring  
+> - Supports DFOS, HMI, and EMS modules in a single integrated platform  
+> - Data is stored in real-time database and EEPROM for persistence  
+> - Dashboard works on both web and mobile devices  
+> - Designed for learning, prototyping, and smart factory concepts
+
+---
+
+> [!CAUTION]
+> - Avoid operating system with unstable WiFi network (may cause wrong triggers)  
+> - Do not exceed sensor and module voltage/current limits  
+> - Ensure proper grounding to prevent noise and false readings  
+> - Sudden power loss may affect EEPROM data consistency  
+> - Continuous operation without cooling may overheat components
+
+---
+
 ## 💡 Features
 
 >
