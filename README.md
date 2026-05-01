@@ -21,6 +21,12 @@
 </p>
 
 ---
+![C++](https://img.shields.io/badge/C++-Programming-0A66C2?style=flat-square&logo=c%2B%2B&logoColor=white)
+![Embedded Systems](https://img.shields.io/badge/Embedded-Systems-6A1B9A?style=flat-square&logo=raspberrypi&logoColor=white)
+![ESP8266](https://img.shields.io/badge/ESP8266-WiFi%20Module-FF6F00?style=flat-square&logo=espressif&logoColor=white)
+![IoT](https://img.shields.io/badge/IoT-Projects-00897B?style=flat-square&logo=internetofthings&logoColor=white)
+![IR Sensor](https://img.shields.io/badge/IR-Sensor-3949AB?style=flat-square&logo=arduino&logoColor=white)
+![Industrial Automation](https://img.shields.io/badge/Industrial-Automation-2E7D32?style=flat-square&logo=siemens&logoColor=white)
 
 ## 📌 Project Overview
 
