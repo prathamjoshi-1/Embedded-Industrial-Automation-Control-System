@@ -210,14 +210,6 @@ Reduced manpower, minimized production loss, improved efficiency, and enabled sm
 
 ---
 
-> [!INFO]
-> - System uses ESP8266 with cloud-based dashboard for remote monitoring  
-> - Supports DFOS, HMI, and EMS modules in a single integrated platform  
-> - Data is stored in real-time database and EEPROM for persistence  
-> - Dashboard works on both web and mobile devices  
-> - Designed for learning, prototyping, and smart factory concepts
-
----
 
 > [!CAUTION]
 > - Avoid operating system with unstable WiFi network (may cause wrong triggers)  
