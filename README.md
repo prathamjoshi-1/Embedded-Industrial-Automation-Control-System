@@ -176,7 +176,9 @@ Reduced manpower, minimized production loss, improved efficiency, and enabled sm
 
 ## 💡 Features
 
-✔ Real-time monitoring
+> [!FEATURES]
+>
+> ✔ Real-time monitoring
 ✔ IoT control using Blynk
 ✔ Production counting
 ✔ Fault detection system
