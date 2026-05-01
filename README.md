@@ -28,12 +28,6 @@
 ![IR Sensor](https://img.shields.io/badge/IR-Sensor-3949AB?style=flat-square&logo=arduino&logoColor=white)
 ![Industrial Automation](https://img.shields.io/badge/Industrial-Automation-2E7D32?style=flat-square&logo=siemens&logoColor=white)
 
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Embedded Systems](https://img.shields.io/badge/Embedded%20Systems-1E1E1E?style=for-the-badge&logo=raspberrypi&logoColor=white)
-![ESP8266](https://img.shields.io/badge/ESP8266-EA580C?style=for-the-badge&logo=espressif&logoColor=white)
-![IoT](https://img.shields.io/badge/IoT-0F766E?style=for-the-badge&logo=internetofthings&logoColor=white)
-![IR Sensor](https://img.shields.io/badge/IR%20Sensor-4C1D95?style=for-the-badge)
-![Industrial Automation](https://img.shields.io/badge/Industrial%20Automation-374151?style=for-the-badge&logo=siemens&logoColor=white)
 ---
 ## 📌 Project Overview
 
